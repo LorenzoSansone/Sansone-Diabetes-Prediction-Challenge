@@ -9,6 +9,8 @@ The dataset for this competition (both train and test) was generated from a deep
 
 The target is *diagnosed_diabetes* and for the testing data you should predict the probability of *diagnosed_diabetes*.
 
+You can download the dataset from this repository (*dataset* directory) or [here](https://www.kaggle.com/competitions/playground-series-s5e12/data) (official page of the competition)
+
 ## 🎯 Objectives
 - **Predictive Modeling:** Build a robust binary classification model to estimate the probability of a diabetes diagnosis.
 - **Skill Development:** Practice tabular data processing, feature engineering, and hyperparameter tuning.
