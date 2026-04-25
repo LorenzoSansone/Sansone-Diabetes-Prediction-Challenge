@@ -1,7 +1,7 @@
 # Sansone-Diabetes-Prediction-Challenge
 
 ## 📌 Project Overview
-This project is part of the **2025 Kaggle Playground Series**, specifically Season 5, Episode 12. The goal of this competition is to leverage machine learning techniques to predict the probability that a patient will be diagnosed with diabetes based on various clinical and demographic features.
+This project is part of the **2025 Kaggle Playground Series**, specifically Season 5, Episode 12 ([link](https://www.kaggle.com/competitions/playground-series-s5e12)). The goal of this competition is to leverage machine learning techniques to predict the probability that a patient will be diagnosed with diabetes based on various clinical and demographic features.
 
 ## 🗂️ Dataset
 The dataset provided for this challenge is **synthetically generated** from real-world data, ensuring a balance between realistic feature relationships and the security of test labels.
