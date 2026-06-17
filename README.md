@@ -19,11 +19,11 @@ You can download the dataset from this repository (*dataset* directory) or [here
 ## Evaluation Metric
 Submissions are evaluated based on the **Area Under the ROC Curve (AUC-ROC)** between the predicted probability and the observed target.
 
-### Submission Format
-The submission file must be a CSV file with a header and the following format:
-```csv
-id,diagnosed_diabetes
-700000,0.2
-700001,0.4
-700002,0.5
-...
+## How to Run the Notebook
+The notebook is designed to run on **Kaggle** using the **CPU**.
+
+1. Upload the notebook to Kaggle.
+2. Make sure the accelerator is set to **CPU** (None) in the session settings.
+3. To execute the entire notebook, use **Save & Run All (commit)**.
+
+Running the notebook via **Save & Run All (commit)** starts the execution in the background, ensuring that it runs to completion even if you close the browser. This avoids the typical problems of the interactive session (inactivity timeouts, disconnections, interrupted runs). This type of running is useful especially for the grid search section because it takes a lot of time. If you are just interested in the analysis part the interactive mode is fine too. 
